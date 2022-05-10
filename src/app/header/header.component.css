@@ -1,0 +1,19 @@
+.header-wrapper{
+    position:absolute;
+}
+
+.header-container {
+    max-height: 45px;
+}
+
+.header {
+    display: flex;
+    margin: 0% 8%;
+}
+
+#netflix-logo {
+    margin: 0;
+    padding: 0;
+    max-width: 30%;
+    max-height: 40% ;
+}
